@@ -39,12 +39,13 @@ Advanced SQL • Python • Gen AI • AWS
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/angana-biswas-data-science" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+### 📫 Connect
+<p align="center">
+<a href="https://linkedin.com/in/angana-biswas-data-science">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.hackerrank.com/profile/biswasangana8" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+&nbsp;
+<a href="https://www.hackerrank.com/profile/biswasangana8">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 </p>
