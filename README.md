@@ -14,10 +14,10 @@
 
 ---
 
-### 🚀 Projects
-- 🔗 <a href="https://github.com/anganabiswas/SQL_project_1">Walmart Data Analysis (SQL)</a>  
-- 🔗 <a href="#">Customer Behavior Analysis</a>  
-- 🔗 <a href="#">Explainable AI (XAI)</a>  
+### 🚀 Projects (Click to Explore) 
+- 🔗 <a href="https://github.com/anganabiswas/Data_Analysis_Portfolio_Project">Customer Behavior Analysis</a>
+- 🔗 <a href="https://github.com/anganabiswas/SQL_project_1">Walmart Data Analysis (SQL)</a> 
+- 🔗 <a href="https://github.com/anganabiswas/Python_project_final_year">Explainable AI (XAI)</a>  
 - 🔗 <a href="https://github.com/anganabiswas/Power_BI_Dashboard">Power BI Dashboard</a>  
 
 ---
