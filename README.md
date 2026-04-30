@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Software Engineer | ML & AI Enthusiast</h3>
 
 <p align="center">
-🎓 MSc in Data Science <br>
+🎓 MSc in IT(Data Science) <br>
 💼 Currently working as a Software Engineer
 </p>
 
