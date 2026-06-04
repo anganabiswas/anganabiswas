@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 Projects (Click to Explore) 
-- 🔗 <a href="https://github.com/anganabiswas/Data_Analysis_Portfolio_Projec">Customer Behavior Analysis</a>
+- 🔗 <a href="[https://github.com/anganabiswas/Data_Analysis_Portfolio_Projec](https://github.com/anganabiswas/Data_Analysis_Portfolio_Project)">Customer Behavior Analysis</a>
 - 🔗 <a href="https://github.com/anganabiswas/SQL_project_1">Walmart Data Analysis (SQL)</a> 
 - 🔗 <a href="https://github.com/anganabiswas/Python_project_final_year">Explainable AI (XAI)</a>  
 - 🔗 <a href="https://github.com/anganabiswas/Medical_Assistant_Bot">Medical Assistant Bot</a>  
